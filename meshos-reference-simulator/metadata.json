@@ -1,0 +1,6 @@
+{
+  "name": "MeshOS Reference Simulator",
+  "description": "Interactive reference simulator for the Distributed Modular Wearable Ecosystem (DMWE) and MeshOS, featuring real-time node topology, capability & context graphs, intent routing, fault-tolerance triggers, interactive CLI sandbox, and reference app playground.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
